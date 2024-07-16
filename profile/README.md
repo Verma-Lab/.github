@@ -58,20 +58,3 @@ A brief description of what Project 2 does.
 </div>
 
 
-
-# Stats :
-</br>
-</br>
-<div align ="center">
- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Verma-Lab&repo=.github&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Verma-Lab .github Top Languages" />
- </p>
-</br>
-<img alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Verma-Lab&repo=.github&theme=blue-green">
-</br>
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Verma-Lab&repo=.github&show_icons=true&theme=blue-green" alt="Verma-Lab .github Stats" />
-</p>
-</div>
-
-
