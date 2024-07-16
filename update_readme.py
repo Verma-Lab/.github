@@ -1,22 +1,34 @@
-import requests
-import os
+import json
 
-# GitHub API endpoint to fetch repositories
-org_name = 'Verma-Lab'
-url = f'https://api.github.com/orgs/{org_name}/repos'
+# Function to fetch data from GitHub API
+def fetch_org_data():
+    with open('org.json') as f:
+        return json.load(f)
 
-# Fetch repositories data
-response = requests.get(url)
-repos = response.json()
+# Fetch organization data
+org_data = fetch_org_data()
 
-# Prepare the content for README.md
-readme_content = """
+# Prepare README content
+readme_content = f"""
 # Welcome to Verma-Lab
 
-![Verma-Lab Logo](https://link-to-your-logo-image.png)
+## Hi there 👋
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+
+![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
 
 ## About Us
-We are a team of developers and researchers working on innovative projects in various fields including AI, ML, and data analysis.
+We are a team of developers and researchers working on innovative projects in various fields including Bioinformatics and Human Genetics.
 
 ## Tools We Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -26,16 +38,12 @@ We are a team of developers and researchers working on innovative projects in va
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
 ## Key Projects
-"""
+### [Project 1](https://github.com/Verma-Lab/project-1)
+A brief description of what Project 1 does.
 
-# Add each repository to the README content
-for repo in repos:
-    readme_content += f"### [{repo['name']}]({repo['html_url']})\n"
-    readme_content += f"{repo['description']}\n\n"
-    readme_content += f"Last pushed by: {repo['pushed_at']}\n\n"
+### [Project 2](https://github.com/Verma-Lab/project-2)
+A brief description of what Project 2 does.
 
-# Add more sections as needed
-readme_content += """
 ## Contributors
 - [Contributor 1](https://github.com/contributor1)
 - [Contributor 2](https://github.com/contributor2)
@@ -45,10 +53,23 @@ readme_content += """
 - **June 2024**: Published a new research paper on AI.
 
 ## Contact Us
-- **Email**: contact@verma-lab.com
-- **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
+- **Email**: Anurag.Verma@Pennmedicine.upenn.edu
+- **Twitter**:
+
+
+## Stats
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Verma-Lab&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" />
+  </p>
+  <br/>
+  <img alt="streak stats" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Verma-Lab&theme=blue-green">
+  <br/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Verma-Lab&show_icons=true&theme=blue-green" alt="GitHub Stats" /></p>
+</div>
+
 """
 
-# Write the content to README.md
-with open('README.md', 'w') as f:
+# Write the content to .github/profile/README.md
+with open('.github/profile/README.md', 'w') as f:
     f.write(readme_content)
