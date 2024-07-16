@@ -13,11 +13,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Fetch organization stats and update README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Fetch data from GitHub API
-          curl -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/orgs/Verma-Lab > org.json
+          curl https://api.github.com/orgs/Verma-Lab > org.json
 
           # Process the data and generate README content
           python update_readme.py
