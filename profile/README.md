@@ -56,6 +56,16 @@ A brief description of what Project 2 does.
 ![GitHub last commit](https://img.shields.io/github/last-commit/Verma-Lab/.github)
 ![GitHub contributors](https://img.shields.io/github/contributors/Verma-Lab/.github)
 
+## Repository Badges
+</br>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/Verma-Lab/.github?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/Verma-Lab/.github?style=social" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/issues/Verma-Lab/.github" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/issues-pr/Verma-Lab/.github" alt="GitHub pull requests" />
+  <img src="https://img.shields.io/github/last-commit/Verma-Lab/.github" alt="GitHub last commit" />
+  <img src="https://img.shields.io/github/contributors/Verma-Lab/.github" alt="GitHub contributors" />
+</div>
 
 
 # Stats :
