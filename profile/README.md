@@ -42,4 +42,17 @@ A brief description of what Project 2 does.
 
 ## Contact Us
 - **Email**: Anurag.Verma@Pennmedicine.upenn.edu
-- **Twitter**: 
+- **Twitter**:
+
+
+## Stats
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" />
+  </p>
+  <br/>
+  <img alt="streak stats" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=blue-green">
+  <br/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue-green" alt="GitHub Stats" /></p>
+</div>
+
