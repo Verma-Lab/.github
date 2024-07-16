@@ -44,19 +44,9 @@ A brief description of what Project 2 does.
 - **Email**: Anurag.Verma@Pennmedicine.upenn.edu
 - **Twitter**:
 
-## Stats
+#
 
-### Repository: gia_scripts
-
-
-![GitHub stars](https://img.shields.io/github/stars/Verma-Lab/.github?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Verma-Lab/.github?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Verma-Lab/.github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Verma-Lab/.github)
-![GitHub last commit](https://img.shields.io/github/last-commit/Verma-Lab/.github)
-![GitHub contributors](https://img.shields.io/github/contributors/Verma-Lab/.github)
-
-## Repository Badges
+## Repository Badges : .github (Sample Repo, Public)
 </br>
 <div align="center">
   <img src="https://img.shields.io/github/stars/Verma-Lab/.github?style=social" alt="GitHub stars" />
@@ -66,6 +56,7 @@ A brief description of what Project 2 does.
   <img src="https://img.shields.io/github/last-commit/Verma-Lab/.github" alt="GitHub last commit" />
   <img src="https://img.shields.io/github/contributors/Verma-Lab/.github" alt="GitHub contributors" />
 </div>
+
 
 
 # Stats :
