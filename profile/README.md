@@ -45,5 +45,6 @@ A brief description of what Project 2 does.
 - **Twitter**:
 
 
+<img alt="streak stats" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Verma-Lab&theme=blue-green">
 
 
