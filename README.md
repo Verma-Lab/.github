@@ -28,5 +28,5 @@ A brief description of what Project 2 does.
 - **June 2024**: Published a new research paper on AI.
 
 ## Contact Us
-- **Email**: contact@verma-lab.com
-- **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
+- **Email**: Anurag.Verma@Pennmedicine.upenn.edu
+- **Twitter**: 
