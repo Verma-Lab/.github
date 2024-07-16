@@ -12,18 +12,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update README with repository stats
+      - name: Fetch organization stats and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Insert your script here to update the README.md
-          # This could be a custom script to fetch data and update the README.md file
-          
-          # Example script (Python) to append repository stats to README.md
+          # Fetch data from GitHub API
+          curl -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/orgs/Verma-Lab > org.json
+
+          # Process the data and generate README content
           python update_readme.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m 'Update README with latest repository stats'
+          git add .github/profile/README.md
+          git commit -m 'Update README with organization stats'
           git push
+
