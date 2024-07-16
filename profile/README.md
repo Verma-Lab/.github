@@ -45,13 +45,13 @@ A brief description of what Project 2 does.
 - **Twitter**:
 
 ## Stats
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Verma-Lab&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" />
-  </p>
-  <br/>
-  <img alt="streak stats" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Verma-Lab&theme=blue-green">
-  <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Verma-Lab&show_icons=true&theme=blue-green" alt="GitHub Stats" /></p>
-</div>
+
+### Repository: gia_scripts
+
+![GitHub stars](https://img.shields.io/github/stars/Verma-Lab/gia_scripts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Verma-Lab/gia_scripts?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Verma-Lab/gia_scripts)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Verma-Lab/gia_scripts)
+![GitHub last commit](https://img.shields.io/github/last-commit/Verma-Lab/gia_scripts)
+![GitHub contributors](https://img.shields.io/github/contributors/Verma-Lab/gia_scripts)
 
