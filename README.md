@@ -1,6 +1,6 @@
 # Welcome to Verma-Lab
 
-![Verma-Lab Logo](https://link-to-your-logo-image.png)
+![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
 
 ## About Us
 We are a team of developers and researchers working on innovative projects in various fields including AI, ML, and data analysis.
