@@ -38,19 +38,6 @@ contributors_list = "\n".join([f"- [{contributor['login']}](https://github.com/{
 
 # Prepare README content
 readme_content = f"""
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 # Welcome to Verma-Lab
 
 ![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
@@ -82,7 +69,7 @@ We are a team of developers and researchers working on innovative projects in va
 - **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
 """
 
-# Write the content to .github/profile/README.md
-os.makedirs('.github/profile', exist_ok=True)
-with open('.github/profile/README.md', 'w') as f:
+# Write the content to profile/README.md in the root directory
+os.makedirs('profile', exist_ok=True)
+with open('profile/README.md', 'w') as f:
     f.write(readme_content)
