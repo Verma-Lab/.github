@@ -31,7 +31,7 @@ for repo in REPOS:
     all_contributors.update([contributor['login'] for contributor in contributors])
     
     # Generate commit history table
-    commit_table = f"### {repo} Commits\n\n"
+    commit_table = f"### Repo {repo} Commits\n\n"
     commit_table += "| Committer | Commit Message | Date |\n"
     commit_table += "| --- | --- | --- |\n"
     for commit in commit_data[:5]:  # Get the latest 5 commits
