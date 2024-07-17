@@ -39,15 +39,13 @@ def post_to_notion(commit):
                 ]
             },
             "Committer": {
-                "rich_text": [
+                "multi_select": [
                     {
-                        "text": {
-                            "content": commit['commit']['author']['name']
-                        }
+                        "name": commit['commit']['author']['name']
                     }
                 ]
             },
-            "Date": {
+            "Commit Date": {
                 "date": {
                     "start": commit['commit']['author']['date']
                 }
