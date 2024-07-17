@@ -66,40 +66,20 @@ We are a team of developers and researchers working on innovative projects in va
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
 ## Key Projects
-### [Project 1](https://github.com/Verma-Lab/project-1)
-A brief description of what Project 1 does.
-
-### [Project 2](https://github.com/Verma-Lab/project-2)
-A brief description of what Project 2 does.
 
 ## Latest Commits
 {commit_history}
 
 ## Contributors
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+{contributors_list}
 
 ## Latest Updates
 - **July 2024**: Launched new features in Project 1.
 - **June 2024**: Published a new research paper on AI.
 
 ## Contact Us
-- **Email**: Anurag.Verma@Pennmedicine.upenn.edu
-- **Twitter**:
-
-#
-
-## Repository Badges : .github (Sample Repo, Public)
-</br>
-<div align="center">
-  <img src="https://img.shields.io/github/stars/Verma-Lab/.github?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/Verma-Lab/.github?style=social" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues/Verma-Lab/.github" alt="GitHub issues" />
-  <img src="https://img.shields.io/github/issues-pr/Verma-Lab/.github" alt="GitHub pull requests" />
-  <img src="https://img.shields.io/github/last-commit/Verma-Lab/.github" alt="GitHub last commit" />
-  <img src="https://img.shields.io/github/contributors/Verma-Lab/.github" alt="GitHub contributors" />
-</div>
-
+- **Email**: contact@verma-lab.com
+- **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
 """
 
 # Write the content to .github/profile/README.md
