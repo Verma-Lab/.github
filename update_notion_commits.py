@@ -57,7 +57,15 @@ def post_to_notion(commit):
             }
         }
     }
+    
+    # Print the payload for debugging
+    print(f"Payload: {data}")
+    
     response = requests.post(url, headers=notion_headers, json=data)
+    
+    # Print response content for debugging
+    print(f"Response: {response.status_code}, {response.text}")
+    
     response.raise_for_status()
     return response.json()
 
