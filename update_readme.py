@@ -3,38 +3,47 @@ import requests
 
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 REPO_OWNER = 'Verma-Lab'
-REPO_NAME = '.github'
+REPOS = ['.github']  # Add more repositories if needed
 
 headers = {
     "Authorization": f"token {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json"
 }
 
-def fetch_commit_data():
-    url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/commits"
+def fetch_commit_data(repo_name):
+    url = f"https://api.github.com/repos/{REPO_OWNER}/{repo_name}/commits"
     response = requests.get(url, headers=headers)
     response.raise_for_status()
     return response.json()
 
-def fetch_contributors():
-    url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contributors"
+def fetch_contributors(repo_name):
+    url = f"https://api.github.com/repos/{REPO_OWNER}/{repo_name}/contributors"
     response = requests.get(url, headers=headers)
     response.raise_for_status()
     return response.json()
 
-commit_data = fetch_commit_data()
-contributors = fetch_contributors()
+commit_tables = ""
+all_contributors = set()
 
-# Generate commit history
-commit_history = ""
-for commit in commit_data[:5]:  # Get the latest 5 commits
-    commit_message = commit['commit']['message']
-    author = commit['commit']['author']['name']
-    date = commit['commit']['author']['date']
-    commit_history += f"- {commit_message} by {author} on {date}\n"
+for repo in REPOS:
+    commit_data = fetch_commit_data(repo)
+    contributors = fetch_contributors(repo)
+    all_contributors.update([contributor['login'] for contributor in contributors])
+    
+    # Generate commit history table
+    commit_table = f"### {repo} Commits\n\n"
+    commit_table += "| Committer | Commit Message | Date |\n"
+    commit_table += "| --- | --- | --- |\n"
+    for commit in commit_data[:5]:  # Get the latest 5 commits
+        commit_message = commit['commit']['message']
+        author = commit['commit']['author']['name']
+        date = commit['commit']['author']['date']
+        commit_table += f"| {author} | {commit_message} | {date} |\n"
+    
+    commit_tables += commit_table + "\n"
 
 # Generate contributors list
-contributors_list = "\n".join([f"- [{contributor['login']}](https://github.com/{contributor['login']})" for contributor in contributors])
+contributors_list = "\n".join([f"- [{contributor}](https://github.com/{contributor})" for contributor in all_contributors])
 
 # Prepare README content
 readme_content = f"""
@@ -55,7 +64,7 @@ We are a team of developers and researchers working on innovative projects in va
 ## Key Projects
 
 ## Latest Commits
-{commit_history}
+{commit_tables}
 
 ## Contributors
 {contributors_list}
