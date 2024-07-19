@@ -1,15 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 
 # Welcome to Verma-Lab
 
@@ -25,36 +13,34 @@ We are a team of developers and researchers working on innovative projects in va
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-## Key Projects
-### [Project 1](https://github.com/Verma-Lab/project-1)
-A brief description of what Project 1 does.
 
-### [Project 2](https://github.com/Verma-Lab/project-2)
-A brief description of what Project 2 does.
+## Resources 
+1. Git Wiki
+2. PMBB Wiki
+
+## Key Projects
+1. Project 1
+2. Project 2
+## Latest Commits
+### Repo .github Commits
+
+| Committer | Commit Message | Date |
+| --- | --- | --- |
+| Hritvik Gupta | Added workflow for notion commit update | 2024-07-19T13:38:36Z |
+| Hritvik Gupta | Added workflow for notion commit update | 2024-07-17T16:10:15Z |
+| Hritvik Gupta | Added workflow for notion commit update | 2024-07-17T16:05:04Z |
+| Hritvik Gupta | Added workflow for notion commit update | 2024-07-17T16:01:17Z |
+| Hritvik Gupta | Added workflow for notion commit update | 2024-07-17T15:58:12Z |
+
+
 
 ## Contributors
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- [hritvikgupta](https://github.com/hritvikgupta)
 
 ## Latest Updates
 - **July 2024**: Launched new features in Project 1.
 - **June 2024**: Published a new research paper on AI.
 
 ## Contact Us
-- **Email**: Anurag.Verma@Pennmedicine.upenn.edu
-- **Twitter**:
-
-#
-
-## Repository Badges : .github (Sample Repo, Public)
-</br>
-<div align="center">
-  <img src="https://img.shields.io/github/stars/Verma-Lab/.github?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/Verma-Lab/.github?style=social" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues/Verma-Lab/.github" alt="GitHub issues" />
-  <img src="https://img.shields.io/github/issues-pr/Verma-Lab/.github" alt="GitHub pull requests" />
-  <img src="https://img.shields.io/github/last-commit/Verma-Lab/.github" alt="GitHub last commit" />
-  <img src="https://img.shields.io/github/contributors/Verma-Lab/.github" alt="GitHub contributors" />
-</div>
-
-
+- **Email**: contact@verma-lab.com
+- **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
