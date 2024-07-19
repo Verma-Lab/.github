@@ -61,8 +61,14 @@ We are a team of developers and researchers working on innovative projects in va
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-## Key Projects
 
+## Resources 
+1. Git Wiki
+2. PMBB Wiki
+
+## Key Projects
+1. Project 1
+2. Project 2
 ## Latest Commits
 {commit_tables}
 

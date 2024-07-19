@@ -1,4 +1,4 @@
-# Welcome to Verma-Lab
+# Welcome to Verma-Lab Codebase
 
 ![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
 
