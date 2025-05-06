@@ -1,6 +1,7 @@
 
 # Welcome to Verma-Lab
 
+![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
 
 ## About Us
 We are a team of developers and researchers working on innovative projects in various fields including Bioinformatics and Human Genetics.
@@ -27,18 +28,20 @@ We are a team of developers and researchers working on innovative projects in va
 | --- | --- | --- |
 | Anurag Verma | Update README.md
 
+rm photo to replace with Logo | 2025-05-06T12:02:00Z |
+| github-actions[bot] | Update README with latest changes | 2025-04-21T21:10:02Z |
+| Anurag Verma | Update README.md
+
 Made Changes to the Main page | 2025-04-21T21:09:51Z |
 | github-actions[bot] | Update README with latest changes | 2024-07-19T13:38:59Z |
 | Hritvik Gupta | Added workflow for notion commit update | 2024-07-19T13:38:36Z |
-| Hritvik Gupta | Added workflow for notion commit update | 2024-07-17T16:10:15Z |
-| Hritvik Gupta | Added workflow for notion commit update | 2024-07-17T16:05:04Z |
 
 
 
 ## Contributors
-- [github-actions[bot]](https://github.com/github-actions[bot])
 - [vermaa1](https://github.com/vermaa1)
 - [hritvikgupta](https://github.com/hritvikgupta)
+- [github-actions[bot]](https://github.com/github-actions[bot])
 
 ## Latest Updates
 - **July 2024**: Launched new features in Project 1.
