@@ -15,29 +15,6 @@ We are a team of developers and researchers working on innovative projects in va
 
 
 ## Resources 
-1. Git Wiki
-2. PMBB Wiki
-
-## Key Projects
-1. Project 1
-2. Project 2
-## Latest Commits
-### Repo .github Commits
-
-| Committer | Commit Message | Date |
-| --- | --- | --- |
-| Anurag Verma | Update README.md
-
-made changes to the about us | 2025-05-06T12:07:15Z |
-| github-actions[bot] | Update README with latest changes | 2025-05-06T12:05:09Z |
-| Anurag Verma | Update README.md
-
-changes the about us | 2025-05-06T12:04:57Z |
-| github-actions[bot] | Update README with latest changes | 2025-05-06T12:02:11Z |
-| Anurag Verma | Update README.md
-
-rm photo to replace with Logo | 2025-05-06T12:02:00Z |
-
 
 
 ## Contributors
@@ -46,9 +23,8 @@ rm photo to replace with Logo | 2025-05-06T12:02:00Z |
 - [vermaa1](https://github.com/vermaa1)
 
 ## Latest Updates
-- **July 2024**: Launched new features in Project 1.
-- **June 2024**: Published a new research paper on AI.
+
 
 ## Contact Us
-- **Email**: contact@verma-lab.com
-- **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
+- **Email**: anurag.verma@pennmedicine.upenn.edu
+- **BlueSky**: [@anuragverma.bsky.social](https://bsky.app/profile/anuragverma.bsky.social)
