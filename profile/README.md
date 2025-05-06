@@ -4,7 +4,7 @@
 ![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
 
 ## About Us
-We are a computational genomics and biomedical data science research group focused on enabling precision medicine through large-scale data integration. We develop open-source tools and workflows to analyze genomic data, electronic health records (EHR), and other biomedical datasets at scale. Our projects include genome-wide association studies, rare variant analysis, phenotyping algorithms, polygenic risk score modeling and AI-driven approaches for early disease detection and clinical decision support. We work closely with national biobanks, academic partners, and health systems to build reproducible, scalable infrastructure that drives discovery and translation in human genetics and medicine.
+We are a team of developers and researchers working on innovative projects in various fields including Bioinformatics and Human Genetics.
 
 ## Tools We Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -28,20 +28,22 @@ We are a computational genomics and biomedical data science research group focus
 | --- | --- | --- |
 | Anurag Verma | Update README.md
 
+changes the about us | 2025-05-06T12:04:57Z |
+| github-actions[bot] | Update README with latest changes | 2025-05-06T12:02:11Z |
+| Anurag Verma | Update README.md
+
 rm photo to replace with Logo | 2025-05-06T12:02:00Z |
 | github-actions[bot] | Update README with latest changes | 2025-04-21T21:10:02Z |
 | Anurag Verma | Update README.md
 
 Made Changes to the Main page | 2025-04-21T21:09:51Z |
-| github-actions[bot] | Update README with latest changes | 2024-07-19T13:38:59Z |
-| Hritvik Gupta | Added workflow for notion commit update | 2024-07-19T13:38:36Z |
 
 
 
 ## Contributors
+- [github-actions[bot]](https://github.com/github-actions[bot])
 - [vermaa1](https://github.com/vermaa1)
 - [hritvikgupta](https://github.com/hritvikgupta)
-- [github-actions[bot]](https://github.com/github-actions[bot])
 
 ## Latest Updates
 - **July 2024**: Launched new features in Project 1.
