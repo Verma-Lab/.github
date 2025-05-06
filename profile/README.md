@@ -4,7 +4,7 @@
 ![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
 
 ## About Us
-We are a team of developers and researchers working on innovative projects in various fields including Bioinformatics and Human Genetics.
+We are a computational genomics and biomedical data science research group focused on enabling precision medicine through large-scale data integration. We develop open-source tools and workflows to analyze genomic data, electronic health records (EHR), and other biomedical datasets at scale. Our projects include genome-wide association studies, rare variant analysis, phenotyping algorithms, polygenic risk score modeling and AI-driven approaches for early disease detection and clinical decision support. We work closely with national biobanks, academic partners, and health systems to build reproducible, scalable infrastructure that drives discovery and translation in human genetics and medicine.
 
 ## Tools We Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
