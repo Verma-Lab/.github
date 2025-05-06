@@ -1,8 +1,10 @@
 
 # Welcome to Verma-Lab
 
+![Screenshot 2024-07-16 at 3 46 20 PM](https://github.com/user-attachments/assets/de609b6b-c700-4d76-9ec9-ccc8763291cd)
+
 ## About Us
-We are a computational genomics and biomedical data science research group focused on enabling precision medicine through large-scale data integration. We develop open-source tools and workflows to analyze genomic data, electronic health records (EHR), and other biomedical datasets at scale. Our projects include genome-wide association study, polygenic risk score modeling, rare variant analysis, phenotyping algorithms, and AI-driven approaches for early disease detection and clinical decision support. We work closely with national biobanks, academic partners, and health systems to build reproducible, scalable infrastructure that drives discovery and translation in human genetics and medicine.
+We are a team of developers and researchers working on innovative projects in various fields including Bioinformatics and Human Genetics.
 
 ## Tools We Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -13,18 +15,40 @@ We are a computational genomics and biomedical data science research group focus
 
 
 ## Resources 
-
+1. Git Wiki
+2. PMBB Wiki
 
 ## Key Projects
+1. Project 1
+2. Project 2
+## Latest Commits
+### Repo .github Commits
+
+| Committer | Commit Message | Date |
+| --- | --- | --- |
+| Anurag Verma | Update README.md
+
+additional changes to the homepage | 2025-05-06T12:12:55Z |
+| github-actions[bot] | Update README with latest changes | 2025-05-06T12:10:24Z |
+| Anurag Verma | Update README.md
+
+made changes to the homepage | 2025-05-06T12:10:08Z |
+| github-actions[bot] | Update README with latest changes | 2025-05-06T12:07:27Z |
+| Anurag Verma | Update README.md
+
+made changes to the about us | 2025-05-06T12:07:15Z |
+
+
 
 ## Contributors
 - [hritvikgupta](https://github.com/hritvikgupta)
-- [github-actions[bot]](https://github.com/github-actions[bot])
 - [vermaa1](https://github.com/vermaa1)
+- [github-actions[bot]](https://github.com/github-actions[bot])
 
 ## Latest Updates
-
+- **July 2024**: Launched new features in Project 1.
+- **June 2024**: Published a new research paper on AI.
 
 ## Contact Us
-- **Email**: anurag.verma@pennmedicine.upenn.edu
-- **Twitter**: [@anuragverma.bsk.social](https://bsky.app/profile/anuragverma.bsky.social)
+- **Email**: contact@verma-lab.com
+- **Twitter**: [@verma_lab](https://twitter.com/verma_lab)
