@@ -26,6 +26,8 @@ We are a team of developers and researchers working on innovative projects in va
 
 | Committer | Commit Message | Date |
 | --- | --- | --- |
+| Hritvik Gupta | Update README.md | 2025-05-10T00:05:31Z |
+| github-actions[bot] | Update README with latest changes | 2025-05-06T12:13:13Z |
 | Anurag Verma | Update README.md
 
 additional changes to the homepage | 2025-05-06T12:12:55Z |
@@ -33,10 +35,6 @@ additional changes to the homepage | 2025-05-06T12:12:55Z |
 | Anurag Verma | Update README.md
 
 made changes to the homepage | 2025-05-06T12:10:08Z |
-| github-actions[bot] | Update README with latest changes | 2025-05-06T12:07:27Z |
-| Anurag Verma | Update README.md
-
-made changes to the about us | 2025-05-06T12:07:15Z |
 
 
 
