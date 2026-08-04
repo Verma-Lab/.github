@@ -36,11 +36,45 @@ The lab leads clinical informatics and genomics efforts for the **Penn Medicine 
 | Project | Description |
 |---|---|
 | **[PLATLAS](https://github.com/Verma-Lab/platlas)** | *PLeiotropic ATLAS* — interactive web browser for multi-ancestry GWAS/PheWAS results across six biobanks (MVP, UKB, FinnGen, BBJ, ToMMo, KoGES; ~1,700 traits): Manhattan/Hudson plots, cross-population comparison, summary-statistic downloads |
-| **[CARE-Bench](https://github.com/Verma-Lab/Care-Bench)** | Benchmark for **longitudinal, protocol-driven patient-care AI agents** — scoring continuity, adherence, robustness, and escalation across multi-session patient conversations |
+| **[CIRCA](https://github.com/Verma-Lab/CIRCA)** | Clinician-built **AI care companion for pregnancy**, deployed at Penn Medicine — a skill-driven LLM agent that texts with patients over SMS: onboarding and consent, symptom triage against clinical protocols, scheduled follow-up check-ins, care-team notifications and escalation, with longitudinal per-patient memory across sessions |
+| **[CARE-Bench](https://github.com/Verma-Lab/Care-Bench)** | Benchmark for **longitudinal, protocol-driven patient-care AI agents** — scoring continuity, adherence, robustness, and escalation across multi-session patient conversations; born from CIRCA's real-world deployment |
 | **[HCC Rare-Variant Analysis](https://github.com/Verma-Lab/hcc-rare-variant-analysis)** | Genetic associations with hepatocellular carcinoma using whole-exome and whole-genome sequencing across multiple biobanks |
 | **[Hepatic Fat GWAS](https://github.com/Verma-Lab/hepatic-fat-gwas)** | Sex-specific genetic effects on hepatic fat and liver health using CT-derived imaging phenotypes |
 | **[PMBB IDP GWAS](https://github.com/Verma-Lab/pmbb_idp_gwas)** | Nextflow pipelines (SAIGE family toolkit) for imaging-derived-phenotype GWAS at biobank scale |
 | **[ECG Deep Learning](https://github.com/Verma-Lab/ECGFounder-ukb)** | External biobank evaluation of ECG foundation models and [case-based interpretable ECG classification](https://github.com/Verma-Lab/protoecgnet-ukb) |
+
+## Repositories
+
+<div align="center">
+
+<a href="https://github.com/Verma-Lab/platlas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=platlas&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="PLATLAS" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=platlas&hide_border=true#gh-light-mode-only" alt="PLATLAS" />
+</a>
+<a href="https://github.com/Verma-Lab/Care-Bench">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=Care-Bench&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="CARE-Bench" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=Care-Bench&hide_border=true#gh-light-mode-only" alt="CARE-Bench" />
+</a>
+
+<a href="https://github.com/Verma-Lab/hcc-rare-variant-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hcc-rare-variant-analysis&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="HCC Rare-Variant Analysis" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hcc-rare-variant-analysis&hide_border=true#gh-light-mode-only" alt="HCC Rare-Variant Analysis" />
+</a>
+<a href="https://github.com/Verma-Lab/hepatic-fat-gwas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hepatic-fat-gwas&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Hepatic Fat GWAS" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hepatic-fat-gwas&hide_border=true#gh-light-mode-only" alt="Hepatic Fat GWAS" />
+</a>
+
+<a href="https://github.com/Verma-Lab/pmbb_idp_gwas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=pmbb_idp_gwas&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="PMBB IDP GWAS" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=pmbb_idp_gwas&hide_border=true#gh-light-mode-only" alt="PMBB IDP GWAS" />
+</a>
+<a href="https://github.com/Verma-Lab/ECGFounder-ukb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=ECGFounder-ukb&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="ECGFounder UKB" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=ECGFounder-ukb&hide_border=true#gh-light-mode-only" alt="ECGFounder UKB" />
+</a>
+
+</div>
 
 ## Stack
 
