@@ -53,8 +53,9 @@ The lab leads clinical informatics and genomics efforts for the **Penn Medicine 
 
 <div align="center">
 
+<a href="https://github.com/Verma-Lab/CIRCA"><img src="assets/card-circa.svg" alt="CIRCA" width="49%" /></a>
+<a href="https://github.com/Verma-Lab/Care-Bench"><img src="assets/card-carebench.svg" alt="CARE-Bench" width="49%" /></a>
 <a href="https://github.com/Verma-Lab/platlas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/platlas" alt="PLATLAS" width="49%" /></a>
-<a href="https://github.com/Verma-Lab/Care-Bench"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/Care-Bench" alt="CARE-Bench" width="49%" /></a>
 <a href="https://github.com/Verma-Lab/hcc-rare-variant-analysis"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/hcc-rare-variant-analysis" alt="HCC Rare-Variant Analysis" width="49%" /></a>
 <a href="https://github.com/Verma-Lab/hepatic-fat-gwas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/hepatic-fat-gwas" alt="Hepatic Fat GWAS" width="49%" /></a>
 <a href="https://github.com/Verma-Lab/pmbb_idp_gwas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/pmbb_idp_gwas" alt="PMBB IDP GWAS" width="49%" /></a>

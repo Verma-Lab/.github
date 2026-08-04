@@ -46,7 +46,7 @@ CELL = 11          # square size
 GAP = 4            # gap between squares
 PITCH = CELL + GAP
 LEFT = 34          # room for weekday labels
-TOP = 64           # room for title + month labels
+TOP = 84           # room for title + subtitle + breathing room + month labels
 
 # GitHub's palettes (light, dark) — 5 buckets from empty to most active.
 LIGHT = ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
