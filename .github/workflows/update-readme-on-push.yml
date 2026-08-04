@@ -1,9 +1,11 @@
 name: Update README on Push
 
+# Manual-only: the auto-run on every push regenerated profile/README.md from
+# update_readme.py's template ("Project 1 / Project 2" + commit tables) and
+# would overwrite the hand-written org profile page. Run manually if the
+# generated version is ever wanted again.
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   update-readme:
