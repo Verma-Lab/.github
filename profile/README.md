@@ -43,36 +43,22 @@ The lab leads clinical informatics and genomics efforts for the **Penn Medicine 
 | **[PMBB IDP GWAS](https://github.com/Verma-Lab/pmbb_idp_gwas)** | Nextflow pipelines (SAIGE family toolkit) for imaging-derived-phenotype GWAS at biobank scale |
 | **[ECG Deep Learning](https://github.com/Verma-Lab/ECGFounder-ukb)** | External biobank evaluation of ECG foundation models and [case-based interpretable ECG classification](https://github.com/Verma-Lab/protoecgnet-ukb) |
 
+## Lab Activity
+
+<div align="center">
+<img src="assets/contribution-graph.svg" alt="Combined contribution graph across Verma-Lab repositories" width="100%" />
+</div>
+
 ## Repositories
 
 <div align="center">
 
-<a href="https://github.com/Verma-Lab/platlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=platlas&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="PLATLAS" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=platlas&hide_border=true#gh-light-mode-only" alt="PLATLAS" />
-</a>
-<a href="https://github.com/Verma-Lab/Care-Bench">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=Care-Bench&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="CARE-Bench" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=Care-Bench&hide_border=true#gh-light-mode-only" alt="CARE-Bench" />
-</a>
-
-<a href="https://github.com/Verma-Lab/hcc-rare-variant-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hcc-rare-variant-analysis&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="HCC Rare-Variant Analysis" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hcc-rare-variant-analysis&hide_border=true#gh-light-mode-only" alt="HCC Rare-Variant Analysis" />
-</a>
-<a href="https://github.com/Verma-Lab/hepatic-fat-gwas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hepatic-fat-gwas&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Hepatic Fat GWAS" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=hepatic-fat-gwas&hide_border=true#gh-light-mode-only" alt="Hepatic Fat GWAS" />
-</a>
-
-<a href="https://github.com/Verma-Lab/pmbb_idp_gwas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=pmbb_idp_gwas&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="PMBB IDP GWAS" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=pmbb_idp_gwas&hide_border=true#gh-light-mode-only" alt="PMBB IDP GWAS" />
-</a>
-<a href="https://github.com/Verma-Lab/ECGFounder-ukb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=ECGFounder-ukb&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="ECGFounder UKB" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verma-Lab&repo=ECGFounder-ukb&hide_border=true#gh-light-mode-only" alt="ECGFounder UKB" />
-</a>
+<a href="https://github.com/Verma-Lab/platlas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/platlas" alt="PLATLAS" width="49%" /></a>
+<a href="https://github.com/Verma-Lab/Care-Bench"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/Care-Bench" alt="CARE-Bench" width="49%" /></a>
+<a href="https://github.com/Verma-Lab/hcc-rare-variant-analysis"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/hcc-rare-variant-analysis" alt="HCC Rare-Variant Analysis" width="49%" /></a>
+<a href="https://github.com/Verma-Lab/hepatic-fat-gwas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/hepatic-fat-gwas" alt="Hepatic Fat GWAS" width="49%" /></a>
+<a href="https://github.com/Verma-Lab/pmbb_idp_gwas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/pmbb_idp_gwas" alt="PMBB IDP GWAS" width="49%" /></a>
+<a href="https://github.com/Verma-Lab/ECGFounder-ukb"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/ECGFounder-ukb" alt="ECGFounder UKB" width="49%" /></a>
 
 </div>
 
