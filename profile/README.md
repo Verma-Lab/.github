@@ -41,7 +41,7 @@ The lab leads clinical informatics and genomics efforts for the **Penn Medicine 
 | **[HCC Rare-Variant Analysis](https://github.com/Verma-Lab/hcc-rare-variant-analysis)** | Genetic associations with hepatocellular carcinoma using whole-exome and whole-genome sequencing across multiple biobanks |
 | **[Hepatic Fat GWAS](https://github.com/Verma-Lab/hepatic-fat-gwas)** | Sex-specific genetic effects on hepatic fat and liver health using CT-derived imaging phenotypes |
 | **[PMBB IDP GWAS](https://github.com/Verma-Lab/pmbb_idp_gwas)** | Nextflow pipelines (SAIGE family toolkit) for imaging-derived-phenotype GWAS at biobank scale |
-| **[ECG Deep Learning](https://github.com/Verma-Lab/ECGFounder-ukb)** | External biobank evaluation of ECG foundation models and [case-based interpretable ECG classification](https://github.com/Verma-Lab/protoecgnet-ukb) |
+
 
 ## Lab Activity
 
