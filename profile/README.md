@@ -18,28 +18,28 @@ Division of Translational Medicine & Human Genetics · Department of Biostatisti
 
 ## About
 
-We are a research group led by **[Anurag Verma, PhD](https://dbei.med.upenn.edu/staff/anurag-verma-phd/)** at the University of Pennsylvania. Our program sits at the intersection of **statistical genomics, biobank-scale informatics, and machine learning** — from characterizing the genetic architecture of complex disease across diverse ancestries, to building the software and AI systems that turn biobank and clinical data into deployed precision-medicine tools.
+The Verma Lab is led by **[Anurag Verma, PhD](https://dbei.med.upenn.edu/staff/anurag-verma-phd/)** at the Perelman School of Medicine, University of Pennsylvania. We work in statistical genomics, biomedical informatics, and clinical AI. Our research covers the genetic architecture of complex disease, phenotyping from electronic health records and clinical imaging, and the development and evaluation of AI systems for clinical use.
 
-The lab leads clinical informatics and genomics efforts for the **Penn Medicine BioBank (PMBB)** and collaborates with national networks including the **VA Million Veteran Program** and federal research partners to scale biobank-based precision health.
+Our team also leads all aspects of data for the **[Penn Medicine BioBank (PMBB)](https://pmbb.med.upenn.edu/)**. Anurag is Associate Director of Clinical Informatics and Genomics for PMBB.
 
 ## Research Areas
 
 | | Area | What we do |
 |---|---|---|
-| 🧬 | **Statistical & Population Genomics** | GWAS/PheWAS of complex traits across ancestries, pleiotropy, rare-variant association from whole-exome/-genome sequencing, sex-specific genetic effects |
+| 🧬 | **Statistical & Population Genomics** |Multi-ancestry GWAS, PheWAS, and exome-wide association studies. Rare-variant burden testing, statistical fine-mapping, pleiotropy, polygenic risk scores, and sex-stratified genetic effects. |
 | 🏥 | **Biobank-Scale Informatics** | Cross-biobank analysis pipelines (Nextflow/SAIGE) spanning PMBB, MVP, UK Biobank, FinnGen, Biobank Japan and more; imaging-derived phenotypes from clinical CT/MRI |
-| 🤖 | **AI & LLM Agents for Clinical Care** | Conversational care agents deployed in patient-facing workflows, LLMs for clinical prediction and rare-disease detection, and benchmarks for evaluating medical AI agents |
-| 📈 | **Deep Learning on Physiological Signals** | Foundation-model and interpretable deep-learning approaches for ECG classification, evaluated at biobank scale |
+🫀 **Multimodal imaging and signal AI** | Deep learning on echocardiography, cardiac MRI, ECG, and clinical CT, including AI-derived imaging phenotypes used as traits for genetic discovery. |
+| 🤖 **Clinical AI translation and evaluation** | LLM agents for patient-facing care workflows, agentic pipelines for rare-disease detection, and benchmarks for evaluating longitudinal medical AI. |
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
 | **[PLATLAS](https://github.com/Verma-Lab/platlas)** | *PLeiotropic ATLAS* — interactive web browser for multi-ancestry GWAS/PheWAS results across six biobanks (MVP, UKB, FinnGen, BBJ, ToMMo, KoGES; ~1,700 traits): Manhattan/Hudson plots, cross-population comparison, summary-statistic downloads |
-| **[CIRCA](https://github.com/Verma-Lab/CIRCA)** | Clinician-built **AI care companion for pregnancy**, deployed at Penn Medicine — a skill-driven LLM agent that texts with patients over SMS: onboarding and consent, symptom triage against clinical protocols, scheduled follow-up check-ins, care-team notifications and escalation, with longitudinal per-patient memory across sessions |
+| **[CIRCA](https://github.com/Verma-Lab/CIRCA)** | An LLM agent that communicates with patients over SMS during pregnancy. It handles onboarding and consent, triages symptoms against clinical protocols, sends scheduled check-ins, notifies and escalates to the care team, and maintains per-patient memory across sessions. Under prospective evaluation at Penn Medicine ([NCT06618144](https://clinicaltrials.gov/study/NCT06618144)). |
 | **[CARE-Bench](https://github.com/Verma-Lab/Care-Bench)** | Benchmark for **longitudinal, protocol-driven patient-care AI agents** — scoring continuity, adherence, robustness, and escalation across multi-session patient conversations; born from CIRCA's real-world deployment |
-| **[HCC Rare-Variant Analysis](https://github.com/Verma-Lab/hcc-rare-variant-analysis)** | Genetic associations with hepatocellular carcinoma using whole-exome and whole-genome sequencing across multiple biobanks |
-| **[Hepatic Fat GWAS](https://github.com/Verma-Lab/hepatic-fat-gwas)** | Sex-specific genetic effects on hepatic fat and liver health using CT-derived imaging phenotypes |
+| **[Liver Rare Variant Genomics](https://github.com/Verma-Lab/hcc-rare-variant-analysis)** | Genetic associations with hepatocellular carcinoma using whole-exome and whole-genome sequencing across multiple biobanks |
+| **[Imaging Derived Hepatic Fat Genomics](https://github.com/Verma-Lab/hepatic-fat-gwas)** | Sex-specific genetic effects on hepatic fat and liver health using CT-derived imaging phenotypes |
 | **[PMBB IDP GWAS](https://github.com/Verma-Lab/pmbb_idp_gwas)** | Nextflow pipelines (SAIGE family toolkit) for imaging-derived-phenotype GWAS at biobank scale |
 
 
@@ -59,7 +59,6 @@ The lab leads clinical informatics and genomics efforts for the **Penn Medicine 
 <a href="https://github.com/Verma-Lab/hcc-rare-variant-analysis"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/hcc-rare-variant-analysis" alt="HCC Rare-Variant Analysis" width="49%" /></a>
 <a href="https://github.com/Verma-Lab/hepatic-fat-gwas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/hepatic-fat-gwas" alt="Hepatic Fat GWAS" width="49%" /></a>
 <a href="https://github.com/Verma-Lab/pmbb_idp_gwas"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/pmbb_idp_gwas" alt="PMBB IDP GWAS" width="49%" /></a>
-<a href="https://github.com/Verma-Lab/ECGFounder-ukb"><img src="https://opengraph.githubassets.com/vermalab/Verma-Lab/ECGFounder-ukb" alt="ECGFounder UKB" width="49%" /></a>
 
 </div>
 
@@ -77,7 +76,10 @@ The lab leads clinical informatics and genomics efforts for the **Penn Medicine 
 
 ## Working With Us
 
-We collaborate broadly across genomics, informatics, and clinical AI. For questions about our work, collaborations, or joining the lab, reach out through the **[lab page](https://dbei.med.upenn.edu/staff/anurag-verma-phd/)**.
+We welcome inquiries from prospective postdocs, graduate students, and collaborators.
+
+- General and collaboration inquiries: contact us through the [lab page: TBD].
+- Prospective trainees: Penn applicants can reach us through the [GGEB](https://www.med.upenn.edu/ggeb/) and [Biomedical Informatics](https://bmin.med.upenn.edu/) programs.
 
 <div align="center">
 <sub>Verma Lab · Perelman School of Medicine · University of Pennsylvania</sub>
