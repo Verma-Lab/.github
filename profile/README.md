@@ -24,11 +24,11 @@ Our team also leads all aspects of data for the **[Penn Medicine BioBank (PMBB)]
 
 ## Research Areas
 
-| | Area | What we do |
-|---|---|---|
-| 🧬 | **Statistical & Population Genomics** |Multi-ancestry GWAS, PheWAS, and exome-wide association studies. Rare-variant burden testing, statistical fine-mapping, pleiotropy, polygenic risk scores, and sex-stratified genetic effects. |
-| 🏥 | **Biobank-Scale Informatics** | Cross-biobank analysis pipelines (Nextflow/SAIGE) spanning PMBB, MVP, UK Biobank, FinnGen, Biobank Japan and more; imaging-derived phenotypes from clinical CT/MRI |
-🫀 **Multimodal imaging and signal AI** | Deep learning on echocardiography, cardiac MRI, ECG, and clinical CT, including AI-derived imaging phenotypes used as traits for genetic discovery. |
+| Area | What we do |
+|---|---|
+| 🧬 **Statistical & Population Genomics** |Multi-ancestry GWAS, PheWAS, and exome-wide association studies. Rare-variant burden testing, statistical fine-mapping, pleiotropy, polygenic risk scores, and sex-stratified genetic effects. |
+| 🏥 **Biobank-Scale Informatics** | Cross-biobank analysis pipelines (Nextflow/SAIGE) spanning PMBB, MVP, UK Biobank, FinnGen, Biobank Japan and more; imaging-derived phenotypes from clinical CT/MRI |
+| 🫀 **Multimodal imaging and signal AI** | Deep learning on echocardiography, cardiac MRI, ECG, and clinical CT, including AI-derived imaging phenotypes used as traits for genetic discovery. |
 | 🤖 **Clinical AI translation and evaluation** | LLM agents for patient-facing care workflows, agentic pipelines for rare-disease detection, and benchmarks for evaluating longitudinal medical AI. |
 
 ## Featured Projects
